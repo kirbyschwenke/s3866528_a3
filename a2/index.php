@@ -8,13 +8,15 @@
     <!-- Keep wireframe.css for debugging, add your css to style.css -->
     <link id='wireframecss' type="text/css" rel="stylesheet" href="../wireframe.css" disabled>
     <link id='stylecss' type="text/css" rel="stylesheet" href="style.css?t=<?= filemtime("style.css"); ?>">
-    <script src='../wireframe.js'></script>
+<link rel="icon" href='../../media/L.png' type="image/x-icon">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poiret+One&family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">    <script src='../wireframe.js'></script>
+
   </head>
 
   <body>
 
     <header>
-      <div>Put company logo and name here</div>
+      <div class="header"><img src='../../media/LunardoReverse.png' alt='Lunardo Cinema logo' height=150px/><br>Where the comfort of your home meets the big screen</div>
     </header>
 
     <nav>

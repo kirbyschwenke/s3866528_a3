@@ -1,1 +1,9 @@
-/* Insert your styles here */
+
+.header {
+padding: 40px;
+text-align: center;
+background: #566637;
+color: white;
+font-size: 24px;
+font-family: 'Poiret One', cursive;
+}
