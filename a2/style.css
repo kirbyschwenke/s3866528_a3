@@ -1,5 +1,5 @@
 
-.header {
+header {
 padding: 40px;
 text-align: center;
 background: #566637;
@@ -7,3 +7,35 @@ color: white;
 font-size: 24px;
 font-family: 'Poiret One', cursive;
 }
+
+nav, body{
+font-family: 'Barlow', sans-serif;
+}
+
+nav ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #454543;
+}
+
+nav li{
+float: left;
+font-size: 14px;
+text-align: center;
+}
+
+nav a:link, nav a:visited {
+display: block;
+color:white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+nav a:hover, nav a:active, nav a:focus{
+color: #454543;
+background-color: white;
+}
+

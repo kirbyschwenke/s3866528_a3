@@ -9,9 +9,7 @@
     <link id='wireframecss' type="text/css" rel="stylesheet" href="../wireframe.css" disabled>
     <link id='stylecss' type="text/css" rel="stylesheet" href="style.css?t=<?= filemtime("style.css"); ?>">
 <link rel="icon" href='../../media/L.png' type="image/x-icon">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poiret+One&family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">    <script src='../wireframe.js'></script>
-
-  </head>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Poiret+One&display=swap" rel="stylesheet">  </head>
 
   <body>
 
@@ -20,7 +18,13 @@
     </header>
 
     <nav>
-      <div>Put website navigation links here</div>
+          <ul>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="">About Us</a></li>
+     <li><a href="">Seats and Prices</a></li>
+     <li><a href="" target="">Now Showing</a></li>
+     <li><a href="booking.php">Book Now</a></li>
+    </ul>
     </nav>
 
     <main>
