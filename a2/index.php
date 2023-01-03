@@ -20,19 +20,27 @@
     <nav>
           <ul>
       <li><a href="index.php">Home</a></li>
-      <li><a href="">About Us</a></li>
-     <li><a href="">Seats and Prices</a></li>
-     <li><a href="" target="">Now Showing</a></li>
+      <li><a href="#about_us">About Us</a></li>
+     <li><a href="#seats+prices">Seats and Prices</a></li>
+     <li><a href="#now_showing" target="">Now Showing</a></li>
      <li><a href="booking.php">Book Now</a></li>
     </ul>
     </nav>
 
     <main>
+
       <article id='Website Under Construction'>
     <!-- Creative Commons image sourced from https://pixabay.com/en/maintenance-under-construction-2422173/ and used for educational purposes only -->
         <img src='../../media/website-under-construction.png' alt='Website Under Construction' />
       </article>
-    </main>
+<p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
+<h2 id="about_us">About Us</h2>   
+<p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
+<h2 id="seats+prices">Seats and Prices</h2>   
+<p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
+<h2 id="now_showing">Now Showing</h2>  
+<p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p> 
+ </main>
 
     <footer>
       <div>&copy;<script>
