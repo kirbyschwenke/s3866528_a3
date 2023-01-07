@@ -33,19 +33,28 @@
     <!-- Creative Commons image sourced from https://pixabay.com/en/maintenance-under-construction-2422173/ and used for educational purposes only -->
         <img src='../../media/website-under-construction.png' alt='Website Under Construction' />
       </article>
+
+<section id="about_us">
+<h2>About Us</h2>   
 <p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
-<h2 id="about_us">About Us</h2>   
+</section>
+
+<section id="seats+prices">
+<h2>Seats and Prices</h2>   
 <p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
-<h2 id="seats+prices">Seats and Prices</h2>   
-<p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
-<h2 id="now_showing">Now Showing</h2>  
+</section>
+
+<section id="now_showing">
+<h2>Now Showing</h2>  
 <p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p> 
+</section>
+
  </main>
 
     <footer>
       <div>&copy;<script>
         document.write(new Date().getFullYear());
-      </script> Put your name(s), student number(s) and group name here. Last modified <?= date ("Y F d  H:i", filemtime($_SERVER['SCRIPT_FILENAME'])); ?>.</div>
+      </script> Kirby Schwenke, s3866528. Last modified <?= date ("Y F d  H:i", filemtime($_SERVER['SCRIPT_FILENAME'])); ?>.</div>
       <div>Disclaimer: This website is not a real website and is being developed as part of a School of Science Web Programming course at RMIT University in Melbourne, Australia.</div>
       <div><button id='toggleWireframeCSS' onclick='toggleWireframe()'>Toggle Wireframe CSS</button></div>
     </footer>
