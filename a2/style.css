@@ -1,9 +1,6 @@
 html {
 scroll-behavior:smooth;
-}
-
-section {
-padding-top: 30px;
+scroll-padding: 60px;
 }
 
 header {
@@ -13,10 +10,6 @@ background: #566637;
 color: white;
 font-size: 24px;
 font-family: 'Poiret One', cursive;
-}
-
-nav, body, h1, h2{
-font-family: 'Barlow', sans-serif;
 }
 
 nav {
@@ -51,3 +44,26 @@ background-color: white;
 scroll-behavior:smooth;
 }
 
+body {
+background-color:#E6E6E6;
+text-align:center;
+text-color:#454543;
+}
+
+nav, body, h1, h2{
+font-family: 'Barlow', sans-serif;
+}
+
+h1 {
+font-size 40px
+}
+
+p {
+font-size:18px;
+}
+
+a {
+color:#566637;
+font-weight:bold;
+text-decoration:none;
+}

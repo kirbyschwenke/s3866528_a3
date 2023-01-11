@@ -29,17 +29,16 @@
 
     <main>
 
-      <article id='Website Under Construction'>
-    <!-- Creative Commons image sourced from https://pixabay.com/en/maintenance-under-construction-2422173/ and used for educational purposes only -->
-        <img src='../../media/website-under-construction.png' alt='Website Under Construction' />
-      </article>
-
 <section id="about_us">
-<h2>About Us</h2>   
-<p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
+<h1>About Us</h1>   
+<p>Welcome to the new and improved Lunardo Cinema!</br></br>
+Lunardo cinema is your local home of Hollywood delivering you a unique take on the cinema experience that the big guys can't compete with. Come on in to your home away from home and enjoy our new and improved cinema, open now after extensive renovations.</br></br>
+The improved Lunardo Cinema delivers a selection of standard seats and reclinable first class seats which you can read more about in our <a href="#seats+prices">seats and prices</a> section of the page.</br></br>
+Our cinemas have also been upgraded to include superior projection and sound systems from Dolby, including <a href="https://professional.dolby.com/cinema/">3D Dolby Vision projection</a> and <a href="https://professional.dolby.com/cinema/dolby-atmos">Dolby Atmos sound</a>.</br>
+</p>
 </section>
 
-<section id="seats+prices">
+<section id="seats+prices" >
 <h2>Seats and Prices</h2>   
 <p> sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br>sd </br> </p>
 </section>
